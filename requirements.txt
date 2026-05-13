@@ -2,3 +2,4 @@ pdfplumber
 pandas
 geopy
 requests
+beautifulsoup4
